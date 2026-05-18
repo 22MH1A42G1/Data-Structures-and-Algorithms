@@ -2,6 +2,10 @@
 
 ## types of dictionary
 
+collections methods:
+-------------------
+'ChainMap', 'Counter', 'OrderedDict', 'UserDict', 'UserList', 'UserString', 'abc', 'defaultdict', 'deque', 'heapq', 'namedtuple
+
 1. default dictionary
 ![alt text](image.png)
 ```
@@ -13,7 +17,8 @@
 ```
 methods:
 -------
-'ChainMap', 'Counter', 'OrderedDict', 'UserDict', 'UserList', 'UserString', 'abc', 'defaultdict', 'deque', 'heapq', 'namedtuple
+'clear', 'copy', 'default_factory', 'fromkeys', 'get', 'items', 'keys', 'pop', 'popitem', 'setdefault',
+ 'update', 'values'
 
 2. ordered dictionary
 ```
@@ -25,8 +30,8 @@ methods:
 ```
 methods:
 --------
-'pop', 'popitem', 'setdefault', 'update', 'values', 'items', 'keys', 'move_to_end'
-
+'clear', 'copy', 'default_factory', 'fromkeys', 'get', 'items', 'keys', 'pop', 'popitem', 'setdefault',
+ 'update', 'values'
 3. deque
 4. queue
 5. named tuple
