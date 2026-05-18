@@ -1,5 +1,14 @@
 ## Day03
 
 ### deque
+![alt text](image-1.png)
+methods:
+'append', 'appendleft', 'clear', 'copy', 'count', 'extend', 'extendleft', 'index', 'insert', 'maxlen', 'pop', 'popleft', 'remove', 'reverse', 'rotate'
 
-<img width="309" height="175" alt="image" src="https://github.com/user-attachments/assets/eedbd07b-c444-4197-a7fa-e80d29c8d770" />
+```
+class deque(list):
+    def maxlen():
+    def appendLeft():
+    def extendLeft():
+    def rotate():
+```
